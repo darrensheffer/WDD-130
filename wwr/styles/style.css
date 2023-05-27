@@ -1,11 +1,12 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Instrument+Sans&family=Rye&display=swap'); */
-/*testing fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Puddles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans&family=Rye&display=swap');
+
+/* testing fonts
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Puddles&display=swap'); */
 
 
 :root {
-    --heading-font: "Rubik Pubbles";
-    --paragraph-font: Pacifico, Helvetica, sans-serif;
+    --heading-font: "Rye";
+    --paragraph-font: Instrument Sans, Helvetica, sans-serif;
 }
 
 #content {
